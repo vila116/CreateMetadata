@@ -1,1 +1,1 @@
-SAML Example to create SP / IDP metadata for SAML assertion
+SAML Example to create  or extract metadata from ServiceProvider(SP) or IdentityProvider(IDP) from SAML assertion
